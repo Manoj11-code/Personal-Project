@@ -1,0 +1,5 @@
+{
+  "name": "VigilantBuild",
+  "description": "VigilantBuild is a cybersecurity platform that detects compromised compilers and supply chain attacks using Diverse Double Compiling (DDC).",
+  "requestFramePermissions": []
+}
